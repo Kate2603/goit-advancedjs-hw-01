@@ -5,8 +5,8 @@
   |============================
 */
 /* Common styles */
-@import url('./base.css');
+@import url('../css/base.css');
 
 /* Sections style */
-@import url('./gallery.css');
-@import url('./form.css');
+@import url('../css/gallery.css');
+@import url('../css/form.css');
